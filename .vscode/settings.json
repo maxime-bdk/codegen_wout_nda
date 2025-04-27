@@ -1,0 +1,5 @@
+{
+    "python.analysis.extraPaths": [
+        "./gdclientlib-0.9.0"
+    ]
+}
